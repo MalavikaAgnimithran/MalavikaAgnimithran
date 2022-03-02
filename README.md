@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MalavikaAgnimithran
+- 👋 Hi, I’m @Malavika
 - 👀 I’m interested in ... Data science and cyber security
 - 🌱 I’m currently learning ... Machine learning
 
